@@ -1,0 +1,22 @@
+﻿firstname,lastname,Position,Salary,Department
+Michael,Scott,Manager,70000,Management
+Dwight,Schrute,Assistant to the Regional Manager,65000,Sales
+James,Halpert,Salesman,60000,Sales
+Pamela,Beesly,Receptionist,25000,Customer Relations
+Phyllis,Vance,Salesman,55000,Sales
+Stanley,Hudson,Salesman,50000,Sales
+Kevin,Malone,Accountant,30000,Accounting
+Angela,Martin,Accountant,50000,Accounting
+Oscar,Martinez,Accountant,55000,Accounting
+Roy,Anderson,Crewman,40000,Warehouse
+Darryl,Philibin,Foreman,50000,Warehouse
+Toby,Flenderson,Human Resources,40000,Corporate
+Jan,Levinson,Vice President,100000,Corporate
+Ryan,Howard,Temp,15000,Intern
+David,Wallace,Chief Financial Officer,125000,Corporate
+Kelly,Kapoor,Customer Service,35000,Customer Relations
+Creed,Bratton,Quality Assurance,40000,Customer Relations
+Meredith,Palmer,Supply Relations,45000,Customer Relations
+Clark,Green,Salesman,45000,Sales
+Pete,Miller,Customer Services,40000,Customer Relations
+Sea,Monster,Crewman,30000,Warehouse
